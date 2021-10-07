@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<test>
+    <Problem id="1">
+        <Question>What is 1+1?</Question>
+        <Answer1>3</Answer1>
+        <Answer2>2</Answer2>
+        <Answer3>6</Answer3>
+        <Answer4>1</Answer4>
+    </Problem>
+
+    <Problem id="2">
+        <Question>Yeet?</Question>
+        <Answer1>yes</Answer1>
+        <Answer2>no</Answer2>
+        <Answer3>YEET</Answer3>
+        <Answer4>yeetus feetus deletus</Answer4>
+    </Problem>
+</test>

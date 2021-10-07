@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
+
 
 ConsoleKey menus = ConsoleKey.E;
 int points = 0;
